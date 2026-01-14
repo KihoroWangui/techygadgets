@@ -11,6 +11,11 @@ function App() {
     {/*header*/}
     <header>
     <h1>Techy Gadgets</h1>
+    <nav>
+    <button>Home</button>
+    <button>Products</button>
+    <button>About</button>
+    </nav>
     </header>
 
         <section className="hero">
