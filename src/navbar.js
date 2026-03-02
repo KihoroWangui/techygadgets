@@ -24,7 +24,8 @@ const Navbar = () => {
           <Link to="/products" onClick={() => setOpen(false)}>Products</Link>
         </li>
         <li>
-          <Link to="/contact" onClick={() => setOpen(false)}>Contact</Link>
+          <li>
+          <Link to="/auth" onClick={() => setOpen(false)}>Login</Link>
         </li>
       </ul>
     </nav>

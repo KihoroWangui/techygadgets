@@ -5,7 +5,7 @@ import Hero from "./hero";
 import Features from "./features";
 import Footer from "./footer";
 import Products from "./products";
-
+import Auth from "./auth";
 function App() {
   return (
     <>
